@@ -1,2 +1,2 @@
 # test
-m test
+my test
